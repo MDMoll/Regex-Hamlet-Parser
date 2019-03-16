@@ -15,17 +15,43 @@ public class HamletParserTest {
 
     @Test
     public void testChangeHamletToLeon() {
+        //Given
+        //When
+        //Then
     }
 
     @Test
+    public void testChangeHamletToLeonUpperCase(){
+        //Given
+        //When
+        //Then
+    }
+    
+    @Test
     public void testChangeHoratioToTariq() {
+       //Given
+       //When
+       //Then
+    }
+    
+    @Test
+    public void testChangeHoratioToTariqUpperCase(){
+        //Given
+        //When
+        //Then
     }
 
     @Test
     public void testFindHoratio() {
+        //Given
+        //When
+        //Then
     }
 
     @Test
     public void testFindHamlet() {
+        //Given
+        //When
+        //Then
     }
 }
